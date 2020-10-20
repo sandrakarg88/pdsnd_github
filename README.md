@@ -1,15 +1,31 @@
 ### Date created
-Include the date you created this project and README file.
+bikeshare.py project: 20.10.2020
+Readme.md: 20.10.2020
 
-### Project Title
-Replace the Project Title
+### Analysing bikeshare data
+bikeshare.py is a code to analyze the data of bicycle-sharing systems.  
 
 ### Description
-Describe what your project is about and what it does
+They allow users to rent bicycles on a very short-term basis for a price. Current technologies  provide a wealth of data that can be used to explore how these bike-sharing systems are used.
+In this project, you are using data provided by [Motivate](https://www.motivateco.com/). It's a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
+You are able to compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### Files used
-Include the files used
+bikeshare.pyx
+chicago.csv
+new_york_city.csv
+washington.csv
+
+### Instruction
+*You should have Python 3, NumPy, and pandas installed using Anaconda + A text editor + A terminal application
+*clone the project
+*load the .csv data files from [Motivate](https://www.motivateco.com/)
+*run the code (the code will guide your through the inputs which are needed)
+
+### Creator
+Sandra Kargus
+[gitHub_pdsnd](https://github.com/sandrakarg88/pdsnd_github.git)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thank you udacity for the course to create this code and to provide the first layout for bikeshare.py.
+Thank you makeareadme.com to explain the sections for a readme properly.
