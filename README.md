@@ -16,6 +16,17 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
+
+### Instruction
+*You should have Python 3, NumPy, and pandas installed using Anaconda + A text editor + A terminal application
+*clone the project
+*load the .csv data files from [Motivate](https://www.motivateco.com/)
+*run the code (the code will guide your through the inputs which have to be made)
+
+### Creator
+Sandra Kargus
+[gitHub_pdsnd](https://github.com/sandrakarg88/pdsnd_github.git)
+
 ### Credits
 Thank you udacity for the course to create this code and to provide the first layout for bikeshare.py.
 Thank you makeareadme.com to explain the sections for a readme properly.
