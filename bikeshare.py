@@ -15,16 +15,17 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello! Nice to see you. Let\'s explore some US bikeshare data!')
 
     #set filter_criteria standard to all
+    month = 'all'
+    day = 'all'
 
-    # to get user input for month + day of the week
-        # To get user input for month (all, january, february, ... , june)
-        # To get user input for day of week (all, monday, tuesday, ... sunday)
+    # TO DO: get user input for month (all, january, february, ... , june)
 
-    # To get user input for month (all, january, february, ... , june)
-    # To get user input for day of week (all, monday, tuesday, ... sunday)
+
+    # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
+
 
     print('-'*40)
     return city, month, day
@@ -41,27 +42,6 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-    # load data file into a dataframe
-
-    # convert the Start Time column to datetime
-
-    # extract month from Start Time to create new month column
-
-    # extract day of week from Start Time column to create new day column
-
-    # extract hour from the Start Time column to create an hour column
-
-
-    # filter by month if applicable
-
-    # use the index of the months list to get the corresponding int
-
-    # filter by month to create the new dataframe
-
-
-    # filter by day of week if applicable
-
-    # filter by day of week to create the new dataframe
 
 
     return df
